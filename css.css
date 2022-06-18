@@ -1,0 +1,16 @@
+.card:hover {
+    transform: translateY(9px);
+    opacity: 0.9;
+    -webkit-box-shadow: -1px 9px 40px -12px black;
+    -moz-box-shadow: -1px 9px 40px -12px black;
+    box-shadow: -1px 9px 40px -12px black;
+}
+
+.card-body{
+    display: none;
+}
+
+
+.item1, .item2 {
+    display: none;
+}
